@@ -1,12 +1,6 @@
 # Data-Science
 
-DS5 Unit 3 Sprint 4 Build Week  
-
-Build Week Project List   
-https://airtable.com/shrTu9WiPg1hCIpob/tblMNrPfYRLxxtvPZ    
-
-Full Time - Build Sprint: Culture Document   
-https://www.notion.so/19e679fc1a284b668d8132dd8d7228cd    
+DS5 Unit 3 Sprint 4 Build Week    
 
 ## Project Description   
 
@@ -30,11 +24,20 @@ Stretch:
 2. Expand geographic scope of the map  
 3. Create a model that predicts where the next accident is most likely to occur."   
 
-DESIGN LINKS / DATA SETS   
-ftp://ftp.nhtsa.dot.gov/fars/    
-TYPE   
+**DESIGN LINKS / DATA SETS**     
+ftp://ftp.nhtsa.dot.gov/fars/     
+
+**TYPE**      
 Data Science Hybrid Apps (Ready for Students)   
   
+## Information 
+
+Build Week Project List   
+https://airtable.com/shrTu9WiPg1hCIpob/tblMNrPfYRLxxtvPZ    
+
+Full Time - Build Sprint: Culture Document   
+https://www.notion.so/19e679fc1a284b668d8132dd8d7228cd  
+
 ## Logs 
 
 2019-08-23 repo created  
