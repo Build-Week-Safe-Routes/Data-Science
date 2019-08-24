@@ -5,7 +5,7 @@ ftp://ftp.nhtsa.dot.gov/fars/
 
 ## Release Notes 1975-2000 
 
-===================================  
+-----------------------------------  
 FARS National and Puerto Rico Files  
 -----------------------------------  
 
@@ -16,7 +16,7 @@ In each folder, there are two zip files, one in SAS format and one in CSV format
 
 Auxiliary files are included in the SAS and CSV sets instead of as independent zip files.   
 
-====================      
+--------------------      
 FARS Auxiliary Files    
 --------------------     
 The FARS Auxiliary files are datasets that are derived from the standard FARS datasets:   
