@@ -42,8 +42,8 @@ https://www.notion.so/19e679fc1a284b668d8132dd8d7228cd
 
 Product Canvas Questions   
 https://docs.google.com/document/d/1oGA80zlszkuWQwEnv8FdomVXvNFQVV307uh-Ug2pKIg/    
-
+ 
 ## Logs 
 
 2019-08-23 repo created   
-2019-08-24 synchronized this repo with project repo. added both as remote destinations. test     
+2019-08-24 synchronized this repo with project repo. added both as remote destinations. test        
