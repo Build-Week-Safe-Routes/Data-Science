@@ -40,6 +40,9 @@ https://airtable.com/shrTu9WiPg1hCIpob/tblMNrPfYRLxxtvPZ
 Full Time - Build Sprint: Culture Document   
 https://www.notion.so/19e679fc1a284b668d8132dd8d7228cd  
 
+Product Canvas Questions   
+https://docs.google.com/document/d/1oGA80zlszkuWQwEnv8FdomVXvNFQVV307uh-Ug2pKIg/    
+
 ## Logs 
 
 2019-08-23 repo created  
