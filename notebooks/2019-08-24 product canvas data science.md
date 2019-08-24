@@ -28,7 +28,9 @@ by Four Characters for Case Number".
 - Write a description for what the DS problem is (what uncertainty/prediction are we trying to do here? Sentiment analysis? Why is this a useful solution to a problem?)
 
 ```
-1. the accident data has information of type, fatal number, time(year/month/day/hour/minute/day of week), location (latitude/longitude/county/city), car model, 
+1. the accident data has information of type, fatal number, 
+time(year/month/day/hour/minute/day of week), location (latitude/longitude/county/city), 
+car model, etc.
 2. `Auxiliary Analytical User Manual` pdf has 619 pages... and data is 
 scattered in different CSV files. will need a lot of time to merge data.  
 3. use the history data to predict the future accident numbers for 
@@ -39,7 +41,8 @@ information (to be decided)
 - A target (e.g. JSON format or such) for output that DS students can deliver to web/other students for them to ingest and use in the app
 
 ```
-first assume we will have a map of a small area, a few street blocks? (need to be discussed with the product designers)  
+first assume we will have a map of a small area, a few street blocks? 
+(need to be discussed with the product designers)  
 1. history accident summary data for the area, maybe yearly? 
 total accident number, total fatal number, numbers for different 
 accident types... (to be decided)   
