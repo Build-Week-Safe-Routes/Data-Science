@@ -47,3 +47,6 @@ https://docs.google.com/document/d/1oGA80zlszkuWQwEnv8FdomVXvNFQVV307uh-Ug2pKIg/
 
 2019-08-23 repo created   
 2019-08-24 synchronized this repo with project repo. added both as remote destinations.    
+2019-08-25 meeting at 1 pm (central)  
+https://www.notion.so/Sunday-August-25-0a59c413fc2449b5a89d73a1540638eb  
+
