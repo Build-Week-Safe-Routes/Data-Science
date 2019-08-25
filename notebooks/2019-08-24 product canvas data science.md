@@ -29,7 +29,8 @@ by Four Characters for Case Number".
 
 ```
 1. the accident data has information of type, fatal number, 
-time(year/month/day/hour/minute/day of week), location (latitude/longitude/county/city), 
+time (year/month/day/hour/minute/day of week), 
+location (latitude/longitude/county/city), 
 car model, etc.
 2. `Auxiliary Analytical User Manual` pdf has 619 pages... and data is 
 scattered in different CSV files. will need a lot of time to merge data.  
