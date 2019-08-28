@@ -6,6 +6,7 @@ from flask import Flask, \
                   render_template, \
                   request, \
                   jsonify
+from flask_cors import CORS
 
 from joblib import load
 import category_encoders as ce
@@ -16,6 +17,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 
 app = Flask(__name__)
+CORS(app)
+
 pipeline = load('assets/pipeline.joblib') 
 
 ############################################################
