@@ -16,7 +16,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 
 app = Flask(__name__)
-# model_app = pickle.load(open("model.pkl", "rb"))
 pipeline = load('assets/pipeline.joblib') 
 
 ############################################################
@@ -24,7 +23,6 @@ pipeline = load('assets/pipeline.joblib')
 ############################################################
 def Predictor(list_values):  
     # take one row of feature values
-#     X = np.array(list_values).reshape(1,-1)
     columns = ['LATITUDE', 'LONGITUD', 'DAY', 'MONTH', 
                'YEAR', 'DAY_WEEK', 'HOUR', 'FUNC_SYS', 
                'RELJCT1', 'WEATHER', 'ROUTE', 'TWAY_ID', 
@@ -33,6 +31,7 @@ def Predictor(list_values):
     y = pipeline.predict(X)
     # convert numpy arrapy to list
     predictions = y.tolist()
+
     return predictions
 
 ############################################################
