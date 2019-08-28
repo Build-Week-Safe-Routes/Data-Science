@@ -12,6 +12,7 @@ flask = "*"
 scikit-learn = "*"
 category-encoders = "*"
 gunicorn = "*"
+json = "*"
 
 [requires]
 python_version = "3.7"
