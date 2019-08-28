@@ -53,6 +53,8 @@ https://www.notion.so/Sunday-August-25-0a59c413fc2449b5a89d73a1540638eb
 https://github.com/safe-routes/Build-SafeRoutes-BE  
 2019-08-27 create database on Heroku by JavaScript    
 https://github.com/Build-Week-Safe-Routes/Backend/blob/temporary-seed/data/migrations/20190827091712_createAccidentsTable.js   
+2019-08-27 random forest model created and evaluated   
+2019-08-28 model flask app deployed on Heroku   
 
  
 
