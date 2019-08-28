@@ -98,10 +98,10 @@ def api():
                       values['TWAY_ID'],
                       values['TWAY_ID2'],
                      ]
-            list_values.append(record)
             for i, r in enumerate(record):
                 if r=="" or r==None:
                     record[i] = 'NaN'
+            list_values.append(record)
                     
             data_out[id] = {
                 'LATITUDE': values['LATITUDE'],
