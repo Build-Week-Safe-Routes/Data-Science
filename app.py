@@ -104,15 +104,15 @@ def api():
             data_out[id] = {
                 'LATITUDE': values['LATITUDE'],
                 'LONGITUD': values['LONGITUD'],
-                'LIKELYHOOD': 0
+                'LIKELIHOOD': 0
                 }
             
         # get output data    
         preds = Predictor(list_values)
         for values, pred in zip(data_out.values(), preds):
             print(values, pred)
-            values['LIKELYHOOD'] = pred
-            
+            values['LIKELIHOOD'] = pred
+      
         return data_out
     
     except:
