@@ -22,7 +22,7 @@ MVP:
 Stretch:   
 1. Ask user to use their location, if available.   
 2. Expand geographic scope of the map  
-3. Create a model that predicts where the next accident is most likely to occur."   
+3. Create a model that predicts where the next accident is most likely to occur.   
 
 **DESIGN LINKS / DATA SETS**     
 ftp://ftp.nhtsa.dot.gov/fars/     
@@ -48,5 +48,11 @@ https://docs.google.com/document/d/1oGA80zlszkuWQwEnv8FdomVXvNFQVV307uh-Ug2pKIg/
 2019-08-23 repo created   
 2019-08-24 synchronized this repo with project repo. added both as remote destinations.    
 2019-08-25 meeting at 1 pm (central)  
-https://www.notion.so/Sunday-August-25-0a59c413fc2449b5a89d73a1540638eb  
+https://www.notion.so/Sunday-August-25-0a59c413fc2449b5a89d73a1540638eb   
+2019-08-26 backend api example  
+https://github.com/safe-routes/Build-SafeRoutes-BE  
+2019-08-27 create database on Heroku by JavaScript    
+https://github.com/Build-Week-Safe-Routes/Backend/blob/temporary-seed/data/migrations/20190827091712_createAccidentsTable.js   
+
+ 
 
