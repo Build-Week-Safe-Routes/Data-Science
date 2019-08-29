@@ -1,3 +1,11 @@
+
+1. Forgot to run `pipenv shell` to activate the virtualenv;
+2. then install some Python packages;
+3. Pipfile.lock has some problem;
+4. Delete Pipfile and Pipfile.lock in the project folder, delete virtualenv folder;
+5. Re-create virtualenv again.
+
+```
 (base) PS D:\lambdaschool> cd .\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes\
 (base) PS D:\lambdaschool\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes> ls
 
@@ -16,15 +24,15 @@ d-----       2019-08-24  12:45 PM                notebooks
 (base) PS D:\lambdaschool\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes> pipenv install
 Creating a virtualenv for this project…
 Pipfile: D:\LambdaSchool\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes\Pipfile
-Using c:\users\guido\anaconda3\python.exe (3.7.3) to create virtualenv…
-[   =] Creating virtual environment...Already using interpreter c:\users\guido\anaconda3\python.exe
-Using base prefix 'c:\\users\\guido\\anaconda3'
-New python executable in C:\Users\guido\.virtualenvs\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes-WHMmWEFm\Scripts\python.exe
+Using c:\users\*\anaconda3\python.exe (3.7.3) to create virtualenv…
+[   =] Creating virtual environment...Already using interpreter c:\users\*\anaconda3\python.exe
+Using base prefix 'c:\\users\\*\\anaconda3'
+New python executable in C:\Users\*o\.virtualenvs\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes-WHMmWEFm\Scripts\python.exe
 Installing setuptools, pip, wheel...
 done.
 
 Successfully created virtual environment!
-Virtualenv location: C:\Users\guido\.virtualenvs\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes-WHMmWEFm
+Virtualenv location: C:\Users\*\.virtualenvs\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes-WHMmWEFm
 Creating a Pipfile for this project…
 Pipfile.lock not found, creating…
 Locking [dev-packages] dependencies…
@@ -79,3 +87,4 @@ To activate this project's virtualenv, run pipenv shell.
 Alternatively, run a command inside the virtualenv with pipenv run.
 (base) PS D:\lambdaschool\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes> pipenv run pip freeze > requirements.txt
 (base) PS D:\lambdaschool\DS-Unit-3-Sprint-4-Build-Week-Safe-Routes>
+```
