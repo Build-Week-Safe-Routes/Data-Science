@@ -78,5 +78,10 @@ https://github.com/Build-Week-Safe-Routes/Backend/blob/temporary-seed/data/migra
 2019-08-27 random forest model created and evaluated   
 2019-08-28 model flask app deployed on Heroku   
 
+## Marketing Page and UI  
+
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_25_59-Safe%20Routes.png?raw=true" width="350"><img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_26_16-Safe%20Routes.png?raw=true> width="350">  
+
+
  
 
