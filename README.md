@@ -80,7 +80,9 @@ https://github.com/Build-Week-Safe-Routes/Backend/blob/temporary-seed/data/migra
 
 ## Marketing Page and UI  
 
-<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_25_59-Safe%20Routes.png?raw=true" width="350"><img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_26_16-Safe%20Routes.png?raw=true" width="350">  
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_25_59-Safe%20Routes.png?raw=true" width="450">
+
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_26_16-Safe%20Routes.png?raw=true" width="450">  
 
 
  
