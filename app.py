@@ -108,13 +108,12 @@ def api():
                 'LONGITUD': values['LONGITUD'],
                 'LIKELIHOOD': 0
                 }
-            
+     
         # get output data    
         preds = Predictor(list_values)
         for values, pred in zip(data_out.values(), preds):
-            print(values, pred)
             values['LIKELIHOOD'] = pred
-      
+
         return data_out
     
     except:
