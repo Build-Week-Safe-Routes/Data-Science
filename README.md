@@ -2,6 +2,13 @@
 
 DS5 Unit 3 Sprint 4 Build Week    
 
+User app   
+https://safe-routes-bw.netlify.com/    
+Model app   
+https://saferoutes-pred.herokuapp.com/api   
+Test Model API  
+https://colab.research.google.com/drive/1d7uE8BwwSO3MTfP4IYoV0e12Qj2v-6jv?authuser=2#scrollTo=zNP_9hb4wzB2&line=16&uniqifier=1   
+
 ## Project Description   
 
 **PROJECT NAME**   
