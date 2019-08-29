@@ -6,6 +6,7 @@ from flask import Flask, \
                   render_template, \
                   request, \
                   jsonify
+from flask_cors import CORS
 
 from joblib import load
 import category_encoders as ce
@@ -16,7 +17,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 
 app = Flask(__name__)
-# model_app = pickle.load(open("model.pkl", "rb"))
+CORS(app)
+
 pipeline = load('assets/pipeline.joblib') 
 
 ############################################################
@@ -24,7 +26,6 @@ pipeline = load('assets/pipeline.joblib')
 ############################################################
 def Predictor(list_values):  
     # take one row of feature values
-#     X = np.array(list_values).reshape(1,-1)
     columns = ['LATITUDE', 'LONGITUD', 'DAY', 'MONTH', 
                'YEAR', 'DAY_WEEK', 'HOUR', 'FUNC_SYS', 
                'RELJCT1', 'WEATHER', 'ROUTE', 'TWAY_ID', 
@@ -33,6 +34,7 @@ def Predictor(list_values):
     y = pipeline.predict(X)
     # convert numpy arrapy to list
     predictions = y.tolist()
+
     return predictions
 
 ############################################################
@@ -96,23 +98,22 @@ def api():
                       values['TWAY_ID'],
                       values['TWAY_ID2'],
                      ]
-            list_values.append(record)
             for i, r in enumerate(record):
                 if r=="" or r==None:
                     record[i] = 'NaN'
+            list_values.append(record)
                     
             data_out[id] = {
                 'LATITUDE': values['LATITUDE'],
                 'LONGITUD': values['LONGITUD'],
-                'LIKELYHOOD': 0
+                'LIKELIHOOD': 0
                 }
-            
+     
         # get output data    
         preds = Predictor(list_values)
         for values, pred in zip(data_out.values(), preds):
-            print(values, pred)
-            values['LIKELYHOOD'] = pred
-            
+            values['LIKELIHOOD'] = pred
+
         return data_out
     
     except:

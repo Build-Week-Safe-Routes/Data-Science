@@ -12,7 +12,3 @@ htmlcov/
 dist/
 build/
 *.egg-info/
-
-datasets/  
-notebooks/
-.ipynb_checkpoints/
