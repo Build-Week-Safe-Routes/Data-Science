@@ -50,6 +50,14 @@ https://www.notion.so/19e679fc1a284b668d8132dd8d7228cd
 Product Canvas Questions   
 https://docs.google.com/document/d/1oGA80zlszkuWQwEnv8FdomVXvNFQVV307uh-Ug2pKIg/    
  
+Using Machine Learning to Predict Car Accident Risk    
+Daniel Wilson May 3, 2018 · 12 min read    
+https://medium.com/geoai/using-machine-learning-to-predict-car-accident-risk-4d92c91a7d57     
+
+Predicting Hard Drive Failure with Machine Learning   
+October 26, 2018 · 8 min read  
+https://neurospace.io/blog/2018/10/predicting-hard-drive-failure-with-machine-learning/  
+
 ## Logs 
 
 2019-08-23 repo created   
