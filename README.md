@@ -58,11 +58,11 @@ Product Canvas Questions
 https://docs.google.com/document/d/1oGA80zlszkuWQwEnv8FdomVXvNFQVV307uh-Ug2pKIg/    
  
 Using Machine Learning to Predict Car Accident Risk    
-Daniel Wilson May 3, 2018 · 12 min read    
+Daniel Wilson May 3, 2018 Â· 12 min read    
 https://medium.com/geoai/using-machine-learning-to-predict-car-accident-risk-4d92c91a7d57     
 
 Predicting Hard Drive Failure with Machine Learning   
-October 26, 2018 · 8 min read  
+October 26, 2018 Â· 8 min read  
 https://neurospace.io/blog/2018/10/predicting-hard-drive-failure-with-machine-learning/  
 
 ## Logs 
@@ -80,7 +80,7 @@ https://github.com/Build-Week-Safe-Routes/Backend/blob/temporary-seed/data/migra
 
 ## Marketing Page and UI  
 
-<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_25_59-Safe%20Routes.png?raw=true" width="350"><img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_26_16-Safe%20Routes.png?raw=true> width="350">  
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_25_59-Safe%20Routes.png?raw=true" width="350"><img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_26_16-Safe%20Routes.png?raw=true" width="350">  
 
 
  
