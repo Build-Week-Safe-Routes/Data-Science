@@ -1,16 +1,22 @@
-# Data-Science
+ï»¿# Data-Science
 
 DS5 Unit 3 Sprint 4 Build Week    
 
+## Product  
+
+https://safe-routes-web.netlify.com/
+
 ## Deliverables  
 
+Product page  
+https://safe-routes-web.netlify.com/  
 User app   
 https://safe-routes-bw.netlify.com/    
 Model app   
 https://saferoutes-pred.herokuapp.com/api   
 Test Model API  
 https://colab.research.google.com/drive/1d7uE8BwwSO3MTfP4IYoV0e12Qj2v-6jv?authuser=2#scrollTo=zNP_9hb4wzB2&line=16&uniqifier=1   
-Document   
+Model Document   
 https://docs.google.com/presentation/d/19ohX7Z7n3_ceqARKsa24lve2dwQvbdDQ-egS9kRfl8s/
 
 ## Project Description   
@@ -58,11 +64,11 @@ Product Canvas Questions
 https://docs.google.com/document/d/1oGA80zlszkuWQwEnv8FdomVXvNFQVV307uh-Ug2pKIg/    
  
 Using Machine Learning to Predict Car Accident Risk    
-Daniel Wilson May 3, 2018 · 12 min read    
+Daniel Wilson May 3, 2018 Â· 12 min read    
 https://medium.com/geoai/using-machine-learning-to-predict-car-accident-risk-4d92c91a7d57     
 
 Predicting Hard Drive Failure with Machine Learning   
-October 26, 2018 · 8 min read  
+October 26, 2018 Â· 8 min read  
 https://neurospace.io/blog/2018/10/predicting-hard-drive-failure-with-machine-learning/  
 
 ## Logs 
@@ -77,6 +83,17 @@ https://github.com/safe-routes/Build-SafeRoutes-BE
 https://github.com/Build-Week-Safe-Routes/Backend/blob/temporary-seed/data/migrations/20190827091712_createAccidentsTable.js   
 2019-08-27 random forest model created and evaluated   
 2019-08-28 model flask app deployed on Heroku   
+
+## Marketing Page and UI  
+
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_25_59-Safe%20Routes.png?raw=true" width="450">
+
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-08-29%2015_26_16-Safe%20Routes.png?raw=true" width="450">  
+
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/e533731443e9fca.jpg?raw=true" width="450">  
+
+
+
 
  
 
